@@ -9,40 +9,40 @@ URxvt.font:\
 
 *.iso14755: False
 
-#define nord0 #1d1f1d
-#define nord1 #3B4252
-#define nord2 #434C5E
-#define nord3 #4C566A
-#define nord4 #D8DEE9
-#define nord5 #E5E9F0
-#define nord6 #ECEFF4
-#define nord7 #8FBCBB
-#define nord8 #88C0D0
-#define nord9 #81A1C1
-#define nord10 #5E81AC
-#define nord11 #BF616A
-#define nord12 #D08770
-#define nord13 #EBCB8B
-#define nord14 #A3BE8C
-#define nord15 #B48EAD
+#define back #1f1f1f
+#define blac #2e2e2e
+#define blgr #404040
+#define grey #5e5e5e
+#define fore #d6d6d6
+#define whgr #ebebeb
+#define whit #fafafa
+#define cyan #87f1ff
+#define blue #38b3ff
+#define deep #3d7eff
+#define mari #3656bf
+#define red #ff6e6e
+#define oran #ffad61
+#define yell #ffff50
+#define gree #1fff9e
+#define pink #ff6ef3
 
-*.foreground:   nord4
-*.background:   nord0
-*.cursorColor:  nord4
+*.foreground:   fore
+*.background:   back
+*.cursorColor:  fore
 
-*.color0: nord1
-*.color1: nord11
-*.color2: nord14
-*.color3: nord13
-*.color4: nord9
-*.color5: nord15
-*.color6: nord8
-*.color7: nord5
-*.color8: nord3
-*.color9: nord11
-*.color10: nord14
-*.color11: nord13
-*.color12: nord9
-*.color13: nord15
-*.color14: nord7
-*.color15: nord6
+*.color0: blac
+*.color1: red
+*.color2: gree
+*.color3: yell
+*.color4: deep
+*.color5: pink
+*.color6: blue
+*.color7: whgr
+*.color8: blgr
+*.color9: red
+*.color10: gree
+*.color11: yell
+*.color12: deep
+*.color13: pink
+*.color14: cyan
+*.color15: whit
